@@ -6,7 +6,7 @@ This tutorial was made with Python using Jupyter Notebook.
 Requirements:
 
 - **Python environment**: Jupyter Notebook, Google Collab...
-- **API key**: https://developer.riotgames.com/  (Don't share it)
+- [API key](https://developer.riotgames.com/): You have to register with your LoL account (Don't share it!)
 - [ RiotWatcher](https://riot-watcher.readthedocs.io/en/latest/#) A thin wrapper on top of the [Riot Games API for League of Legends](https://developer.riotgames.com/apis)
 - [Pandas package](https://pypi.org/project/pandas/)
 
