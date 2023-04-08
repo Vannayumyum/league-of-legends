@@ -8,8 +8,11 @@ Requirements:
 - **Python environment**: Jupyter Notebook, Google Collab...
 - [API key](https://developer.riotgames.com/): You have to register with your LoL account (Don't share it!)
 - [ RiotWatcher](https://riot-watcher.readthedocs.io/en/latest/#) A thin wrapper on top of the [Riot Games API for League of Legends](https://developer.riotgames.com/apis)
-- [Pandas package](https://pypi.org/project/pandas/)
+- [Pandas package](https://pypi.org/project/pandas/)  
 
+
+Main code can be found on the [Introduction-to-Riot-API.ipynb](https://github.com/Vannayumyum/league-of-legends/blob/main/Introduction-to-Riot-API.ipyn) file.  
+[tutorial-web-scrapping.ipynb](https://github.com/Vannayumyum/league-of-legends/blob/main/tutorial-web-scrapping.ipynb) shows how to scrap informations from a website.
 
 ## Objectives
 
